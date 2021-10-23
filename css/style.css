@@ -347,7 +347,6 @@ ul{
   line-height: 115px;
   font-family: 'BalqisCyrillic-Script';
   font-weight: 300;
-  margin-top: -305px;
 }
 .footer__contacts{
   width: 356px;
@@ -355,6 +354,7 @@ ul{
   background-image: url(../img/big-baloon-wh.png);
   background-repeat: no-repeat;
   text-align: center;
+  margin-top: 96px;
 }
 
 .footer__contacts-title{
@@ -387,8 +387,13 @@ ul{
   background-image: url(../img/env.svg);
   background-repeat: no-repeat;
 }
-
-
 .footer__phone{
   margin-bottom: 20px;
+}
+.footer__social{
+  margin-top: 38px;
+}
+.footer__social a{
+  margin-left: 7px;
+  margin-right: 7px;
 }
